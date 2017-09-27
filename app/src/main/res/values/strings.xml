@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">spbu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_profile_fragment">ProfileFragment</string>
+    <string name="kendaraan">Kendaraan</string>
+
+    <string-array name="android_layout_arrays">
+        <item>Pilih Bahasa</item>
+        <item>Indonesia</item>
+        <item>English</item>
+        <item>Jepang</item>
+        <item>Germany</item>
+        <item>Belanda</item>
+        <item>Spanyol</item>
+    </string-array>
+    <string name="title_activity_tambah_kendaraan">Tambah Kendaraan</string>
+    <string name="title_activity_pencarian">Pencarian</string>
+    <string name="title_activity_spbu_detail">Information</string>
+    <string name="title_activity_tambah__fasilitas">Tambah_Fasilitas</string>
+    <string name="title_activity_tambahrate">Rating</string>
+
+</resources>
